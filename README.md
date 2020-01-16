@@ -4,7 +4,9 @@
 Following are the steps for server provisioning:
 
 1.server instance create
+
 2.Installing git
+
 3.Installing rbenv
 4.Installing ruby build
 5.Installing ruby
