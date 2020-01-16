@@ -8,14 +8,17 @@ Following are the steps for server provisioning:
 2.Installing git
 
 3.Installing rbenv
+
 4.Installing ruby build
+
 5.Installing ruby
+
 6.Installing nginx
-7.Installing nodejs                                                                                                                                                                                                                                                                 
+
+7.Installing nodejs                                                                                                                                                                                                                                                             
 8.Installing MySQL
+
 9.Add user
-10.UFW (Uncomplicated Firewall)
-11.No password
 
 #######################################
 INSTRUCTIONS:
